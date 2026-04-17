@@ -1,0 +1,13 @@
+# Build scaffolding & source material — not part of the deployed site
+_raw/
+_orchestrator/
+content/
+images/
+pdfs/
+
+# Claude Code internal
+.claude/
+site/.claude/
+
+# macOS
+.DS_Store
