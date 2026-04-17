@@ -60,7 +60,7 @@ button { cursor: pointer; font-family: inherit; }
 }
 .section--subtle { background: var(--bg-subtle); }
 .section--dark {
-  background: var(--navy-900, #0c1d30);
+  background: var(--color-gray-900, #1a1a1c);
   color: #fff;
 }
 
